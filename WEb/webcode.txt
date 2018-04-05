@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Science Academy</title>
+<style>
+img { 
+    width:100px; 
+}
+a:link {
+    color: green; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+</style>
+</head>
+<body>
+<img src="logo.jpg" alt="Logo is not Available">
+<a href="http://www.dailymotion.com/video/x6h90vs">Join Us on Dailymotion</a>
+<a href="http://scienceacademypakistan.blogspot.com/">Join Us on Blog</u></a>
+<a href="https://www.youtube.com/channel/UC9B4w1-kN3i6Gv2f36iIGHg/featured?view_as=subscriber">Join Us on Youtube</u></a>
+<ul>
+<li>Home</li>
+<li>About Us</li>
+<li>Admission</li>
+<li>Notes</li>
+<li>Courses</li>
+<li>Location</li>
+<li>Contact Us</li>
+<li>Student Portal</li>
+</ul>
+</body>
+</html>
